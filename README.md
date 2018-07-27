@@ -121,6 +121,12 @@ void loop() {
 ### **5. Have Fun!** :sunglasses:
 Now you can monitor your MQ-2 & DHT22 every 5 seconds on Favoriot dashboard. For more information about Favoriot, read its full documentation: [click here](https://platform.favoriot.com/tutorial/).
 
+__*My other tutorials on Favoriot:*__
+- [ESP8266 & Favoriot](https://github.com/LintangWisesa/ESP8266_Favoriot)
+- [ESP32 & Favoriot](https://github.com/LintangWisesa/ESP32_Favoriot)
+- [RobotDyn Uno+WiFi & Favoriot](https://github.com/LintangWisesa/RobotDyn_UnoWiFi_Favoriot)
+- [Arduino MKR1000 & Favoriot](https://github.com/LintangWisesa/Arduino_MKR1000_Favoriot)
+
 #
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
