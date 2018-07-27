@@ -29,7 +29,7 @@ To build this project, you need the following items:
 
 Gather your parts then follow the schematics below.
 
-![UnoWiFi schema](https://www.favoriot.com/wp-content/uploads/2017/03/favoriot-1.png)
+![UnoWiFi schema](https://raw.githubusercontent.com/LintangWisesa/RobotDyn_UnoWiFi_Favoriot/master/UnoWiFi_Favoriot.png)
 
 #
 
